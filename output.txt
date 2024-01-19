@@ -23,6 +23,14 @@ commons-colLections4\4.4\commons-collections4-4.4.jar
 org.inventory.EmpLoyeeAnalyzer
 A) Has worked for 7 consecutive days.
 Employee Name Position Id
+Employee Name Position Id
+Arias, FeXipe WFS000170
+Arias, FeXipe WFS000170
+Arias, FeXipe WFS000170
+Arias, FeXipe WFS000170
+FeXix, XeEWeX WFS000183
+FeXix, XeEWeX WFS000183
+FeXix, XeEWeX WFS0Q00183
 
 B) Has less than 10 hours between shifts.
 
@@ -53,49 +61,7 @@ FeXix, XeEWeX WFS0Q00183
 
 Page 1 of 2
 
-File - EmployeeAnalyzer (1)
-
-23
-24
-25
-26
-27
-28
-29
-30
-31
-32
-3535
-34
-55
-56
-37
-38
-39
-40
-41
-42
-43
-44
-45
-46
-47
-48
-49
-50
-51
-52
-935
-54
-595
-56
-97
-58
-59
-60
-61
-62
-63
+
 
 FeXix, XeEWex WFS000183
 
