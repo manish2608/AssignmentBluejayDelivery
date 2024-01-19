@@ -1,0 +1,160 @@
+File - EmployeeAnalyzer (1)
+
+1
+
+"C:\Program Files\Java\jdk-17\bin\java.exe" "-
+javaagent:C:\Program Files\JetBrains\IntelliJ IDEA
+Community Edition 2023.3.2\lib\idea_rt. jar=50852:C:\
+Program Files\JetBrains\IntelliJ IDEA Community
+Edition 2023.3.2\bin" -Dfile.encoding=UTF-8 -
+classpath D:\untitled\target\cLlasses;C:\Users\hp\.m2\
+repository\com\opencsv\opencsv\5.6\opencsv-5.6.jar;C
+:\Users\hp\.m2\repository\org\apache\commons\commons-
+Lang3\3.12.0\commons-lang3-3.12.0.jar;C:\Users\hp\.m2
+\repository\org\apache\commons\commons-text\1.9\
+commons-text-1.9.jar;C:\Users\hp\.m2\repository\
+commons-beanutils\commons-beanutils\1.9.4\commons-
+beanutils-1.9.4.jar;C:\Users\hp\.m2\repository\
+commons-Logging\commons-Logging\1.2\commons-Logging-1
+.2.jar;C:\Users\hp\.m2\repository\commons-collections
+\commons-collections\3.2.2\commons-collections-3.2.2.
+jar;C:\Users\hp\.m2\repository\org\apache\commons\
+commons-colLections4\4.4\commons-collections4-4.4.jar
+org.inventory.EmpLoyeeAnalyzer
+A) Has worked for 7 consecutive days.
+Employee Name Position Id
+
+B) Has less than 10 hours between shifts.
+
+Employee Name Position Id
+
+Xee, XaCar WFS000200
+
+Xee, XaCar WFS000200
+
+De Xa Cerda, IgWaciE WFS0003518
+
+CEreira Jr, JEse WFS000456
+
+DeXgadiXXE REdarMe, ChrisMiaW S WFS000523
+HaCiXMEW, DeaWMe DevEW WFS000536
+
+C) Has worked for more than 14 hours in a single
+shift.
+
+Employee Name Position Id
+Arias, FeXipe WFS000170
+Arias, FeXipe WFS000170
+Arias, FeXipe WFS000170
+Arias, FeXipe WFS000170
+FeXix, XeEWeX WFS000183
+FeXix, XeEWeX WFS000183
+FeXix, XeEWeX WFS0Q00183
+
+Page 1 of 2
+
+File - EmployeeAnalyzer (1)
+
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+3535
+34
+55
+56
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+935
+54
+595
+56
+97
+58
+59
+60
+61
+62
+63
+
+FeXix, XeEWex WFS000183
+
+Xee, XaCar WFS000200
+
+Xee, XaCar WFS000200
+
+MAake, CasiaWE WFS000228
+REdrigAez, PedrE WFS000336
+REdrigAez, PedrE WFS000336
+ErEpeza, JEvaW WFS000382
+ErEpeza, JEvaW WFS000382
+VasqAez, AXfredE WFSO000391
+VasqAez, AXfredE WFSG00391
+SiWgh, CaWpreeM WFS000418
+
+SiWgh, JaspreeM WFS000424
+
+SiWgh, JaspreeM WFS000424
+
+SiWgh, JaspreeM WFS000424
+
+ErEzcE, SaAxX WFS000442
+
+CEreira Jr, JEse WFS000456
+CEreira Jr, JEse WFS000456
+CEreira Jr, JEse WFS000456
+GAeWdia, JAaW CarXEs WFS000473
+GAeWdia, JAaW CarXxEs WFS000473
+GAeWdia, JAaW CarXEs WFS000473
+ArevaXE, JEse WFS000491
+CcRAWWeX, REWaXd Xee WFS000501
+WiXXiaCs, MyrreXX WFS000511
+WiXXiaCs, MyrreXX WFSO0600511
+XEpez WAWez, XAis WFS000522
+XEpez WAWez, XAis WFS000522
+
+DeXgadiXXE REdarMe, ChrisMiaW S$ WFS000523
+DeXgadiXXE REdarMe, ChrisMiaW S WFS000523
+HAWMer, ViWceWM De PaAX WFS000538
+
+HAWMer, ViWceWM De PaAX WFS000538
+AXcEcer, ECar JesAs WFSO00541
+
+AXcEcer, ECar JesAs WFSO000541
+
+AXcEcer, ECar JesAs WFSO00541
+
+AXcEcer, ECar JesAs WFS000541
+
+IWGEAa, JeffersEW WFS000546
+
+SaWchez, ArWAXfE WFS000577
+
+SaWchez, ArWAXfE WFS000577
+
+GAMierrez, PedrE CigAeX WFS000579
+
+Process finished with exit code 0
+
+Page 2 of 2
+
